@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appcast title="Prashant Update" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <item>
+        <title>Version 1.0.12</title>
+        <description>Swipeable Profile, Story Mentions, and AI Fix! 🚀</description>
+        <pubDate>Mon, 20 Jan 2025 12:00:00 +0000</pubDate>
+        <!-- Niche url mein apna Step 1 wala link paste karein -->
+        <enclosure url="https://github.com/pl0925672-droid/prashant-ota/releases/download/PRASHANT/app-arm64-v8a-release.apk" 
+                   sparkle:version="1.0.12" 
+                   sparkle:os="android" />
+    </item>
+</appcast>
